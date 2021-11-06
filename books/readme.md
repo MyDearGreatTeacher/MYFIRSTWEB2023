@@ -8,13 +8,16 @@ ISBN： 9789864768110
 http://books.gotop.com.tw/download/AEL020600
 ```
 
-### Visual C# 2019 全面攻略：從程式新人到開發設計的快速學習
+### [Visual C# 2019 全面攻略：從程式新人到開發設計的快速學習](https://www.tenlong.com.tw/products/9789864345052?)
 ```
 資訊種子研究室
 博碩文化
 2020-07-21
 ```
 
+##
+
+- [深入淺出 ASP.NET Core  梁桐銘](https://www.tenlong.com.tw/products/9787115541093)
 
 ###  Writing Secure Code in ASP.NET 
 
