@@ -45,6 +45,11 @@ ASP.NET Core 是 ASP.NET 4.x 的重新設計，包括會產生更精簡、更模
 
 ## [Learn ASP.NET](https://dotnet.microsoft.com/learn/aspnet)
 
+
+## [Visual Studio (Visual Studio 2022)](https://visualstudio.microsoft.com/zh-hant/)
+
+- [下載 Visual Studio](https://visualstudio.microsoft.com/zh-hant/thank-you-downloading-visual-studio/?sku=community&rel=17)
+
 ## .NET 6.0 (November 08, 2021)
 - [.NET 6.0](https://dotnet.microsoft.com/download/dotnet) 
 
