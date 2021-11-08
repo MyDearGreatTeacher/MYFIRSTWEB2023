@@ -14,6 +14,9 @@
 - [Learn Restful Api's with Asp.Net Core 5.0 2021](https://www.udemy.com/course/aspnet-core-5-mvc/)
 
 
+- [已買Build an app with ASPNET Core and Angular from scratch](https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/learn/lecture/22400262?start=0#overview)
+
+
 
 ##
 
