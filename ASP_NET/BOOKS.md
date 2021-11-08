@@ -1,4 +1,14 @@
-#
+## Visual Studio community 開發實務
+
+- 快速開發案例
+  - C/C++
+  - Assembly 
+  - Python
+  - C#
+  - Javascript/Node.js
+  - ASP.NET Core
+  - go [Go in Visual Studio Code](https://code.visualstudio.com/docs/languages/go)
+  - [powershell](https://code.visualstudio.com/docs/languages/powershell)
 
 ## Video
 
