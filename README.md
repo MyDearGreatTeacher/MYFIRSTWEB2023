@@ -32,6 +32,7 @@
       - A888168
       - dashboard 
 
+## [推薦書籍與章節](./books.md)
 
 ## [MSYS2](https://www.msys2.org/)
 
