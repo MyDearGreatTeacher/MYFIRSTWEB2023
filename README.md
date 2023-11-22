@@ -1,4 +1,17 @@
-# WEB2022
+# 我的第一個網站:網站結構
+- A888168
+  - index.html
+  - html
+    - html_1.html
+    - html_2.html
+  - CSS
+    - css_1.html
+    - css_2.html
+  - javascript
+    - js_1.html
+    - js_2.html
+  - 1122
+  - 1129   
 
 
 
