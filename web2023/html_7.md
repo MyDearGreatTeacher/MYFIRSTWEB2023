@@ -7,7 +7,9 @@
 <html>    
 <head>
 
-<title>Push Email</title>
+<title>推播之信Push Email</title>
+<meta charset="utf-8">
+<! -- 中文也能通  -->
 <link rel="shortcut icon" href="favicon.ico">
 
 <style type="text/css">
