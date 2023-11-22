@@ -10,6 +10,9 @@
       - 影片來源:https://archive.org/download/mov_bbb_201703 
     - html_5.html 超連結 HTML Links - Hyperlinks <a>
       - https://www.w3schools.com/html/html_links.asp
+    - html_6.html  引用(Quotations) <blockquote> + 一句話引用(Short Quotations) <q>
+      - https://www.w3schools.com/html/html_quotation_elements.asp
+    - [html_7.html](./web2023/html_7.md) 排版技巧最齊全：單欄式、兩欄式、彈性版面、格線佈局
   - CSS
     - css_1.html
     - css_2.html
