@@ -13,6 +13,13 @@
   - 1122
   - 1129   
 
+## xampp伺服器架構
+- C:\xampp
+  - 執行檔:xampp-control.exe
+  - 把你的網站放到底下目錄
+    - C:\xampp\htdocs
+      - A888168
+      - dashboard 
 
 
 ## [MSYS2](https://www.msys2.org/)
