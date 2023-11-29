@@ -1,0 +1,1 @@
+# JAVASCRIPT範例程式
