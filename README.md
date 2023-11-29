@@ -24,13 +24,25 @@
   - javascript
     - js_1.html
     - js_2.html
-  - Bootstrap
-    - B.html
-    - https://bootstrap5.hexschool.com/docs/5.0/getting-started/introduction/ 
+  - pac(套件測試中)
+    - jquery.js
+      - 第一個範例 https://www.w3schools.com/jquery/default.asp
+    - bootstrap.js
+      - 第一個範例 https://www.w3schools.com/bootstrap/
+      - https://bootstrap5.hexschool.com/docs/5.0/getting-started/introduction/
+      - Bootstrap
+    - tensorflow.js 
+    - d3.js
+  
   - PHP(server-side programming)
+    - https://www.w3schools.com/php/default.asp 
+  - BOOK2 小專案範例 [Hands-On Projects with HTML, CSS, and JavaScript [Video]](https://www.packtpub.com/product/hands-on-projects-with-html-css-and-javascript-video/9781835087725)
+    - GITHUB 網址 https://github.com/PacktPublishing/Hands-On-Projects-with-HTML-CSS-and-JavaScript/tree/main 
   - 1122
   - 1129   
+## WORDPRESS 架站
 
+## gOdADDY架站
 ## xampp伺服器架構
 - C:\xampp
   - 執行檔:xampp-control.exe
